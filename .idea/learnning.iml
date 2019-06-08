@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/多态" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/对象属性与类属性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/动态实例添加属性和方法并使用__slots__" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/@property" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/运算符重载" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/收发短信与收发邮件" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/银行自动提款机系统" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tkinter_study" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/图像处理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/破解密码" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/正则表达式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/人脸识别" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/图像处理/图像分割" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/图像处理/图像滤波" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/桌面应用" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
